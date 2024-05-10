@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fritzjeune
 - 👀 I’m interested in web Dev and data analysing
-- 🌱 I’m currently learning Python while mastering NodeJS
-- 💞️ I’m looking to collaborate on some Node Projects(Anything)
+- 🌱 I’m currently mastering my dev skills in Java, Python, NodeJS and database managements
+- 💞️ I’m looking to collaborate on some interesting Projects(Anything).
 - 📫 How to reach me: fritzjeune@outlook.com
 
 <!---
